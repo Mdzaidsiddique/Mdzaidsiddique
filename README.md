@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Md Zaid Siddique.
+- 👀 I’m interested in Airtificial Intelligence.
+- 🌱 I’m currently exploring Data Science and Machine Learning field.
+- 💞️ I’m looking to collaborate on Github Repositories and Data Science Projects.
+- 👨‍💻 All of my projects are available at https://github.com/Mdzaidsiddique
+- 📫 Reach me on @zaidsiddique624@gmail.com 
+- 📄 Resume https://drive.google.com/file/d/1S_25Us91XZYWrahrXFbB8T8Smth9Xleq/view?usp=sharing
+- ⚡ I love composing & listning poetry and playing cricket
