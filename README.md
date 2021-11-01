@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on Github Repositories and Data Science Projects.
 - 👨‍💻 All of my projects are available at https://github.com/Mdzaidsiddique
 - 📫 Reach me on @zaidsiddique624@gmail.com 
-- 📄 Resume https://drive.google.com/file/d/1S_25Us91XZYWrahrXFbB8T8Smth9Xleq/view?usp=sharing
-- ⚡ I love composing & listning poetry and playing cricket
+- 📄 Resume 
+- ⚡ I love composing & listning poetry and playing cricket.
