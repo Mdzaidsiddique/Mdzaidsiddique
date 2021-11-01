@@ -7,4 +7,4 @@
 - 📫 Reach me on @zaidsiddique624@gmail.com 
 - 📄 Resume 
 - ⚡ I love composing & listning poetry and playing cricket.
-Contect with me: https://www.linkedin.com/in/mohammad-zaid-siddique-a48733218/ https://www.instagram.com/zaidalifsiddique
+- Contect with me: https://www.linkedin.com/in/mohammad-zaid-siddique-a48733218/ https://www.instagram.com/zaidalifsiddique
