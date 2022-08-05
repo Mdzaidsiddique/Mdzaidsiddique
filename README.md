@@ -6,5 +6,5 @@
 - 👨‍💻 All of my projects are available at https://github.com/Mdzaidsiddique
 - 📫 Reach me on @zaidsiddique624@gmail.com 
 - 📄 Resume https://drive.google.com/file/d/1DoHd6GPxTkvUtgycDgiqo3gLCAvGuYOl/view?usp=drivesdk
-- ⚡ I love composing & listning poetry and playing cricket.
+- ⚡ I love composing & listning poetry and playing cricket and riding bike
 - Linkedin: https://www.linkedin.com/in/mohammad-zaid-siddique-a48733218/ 
