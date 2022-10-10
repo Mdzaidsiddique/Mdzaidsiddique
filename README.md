@@ -4,7 +4,7 @@
 - 🌱 I’m currently exploring Data Science and Machine Learning field.
 - 💞️ I’m looking to collaborate on Github Repositories and Data Science Projects.
 - 👨‍💻 All of my projects are available at https://github.com/Mdzaidsiddique
-- 📫 Reach me on zaidsiddique624@gmail.com 
+- 📫 Reach me on 45.mdzaid@gmail.com 
 - 📄 Resume https://drive.google.com/file/d/1DoHd6GPxTkvUtgycDgiqo3gLCAvGuYOl/view?usp=drivesdk
 - ⚡ I love composing & listning poetry, playing cricket and riding bike
 - Linkedin: https://www.linkedin.com/in/mohammad-zaid-siddique-a48733218/ 
