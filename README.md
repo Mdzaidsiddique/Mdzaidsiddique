@@ -37,7 +37,7 @@
 
 | S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
-| 1 |  [Click & Buy](https://digital-bazaar.netlify.app/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[Reliance Digital](https://www.reliancedigital.in/)|
+| 1 |  [Click & Buy](https://www.reliancedigital.in/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[Reliance Digital](https://www.reliancedigital.in/)|
 | 2 |  [Alif Medicaments](https://fluffy-centaur-3bfddb.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Tata 1 Mg](https://www.1mg.com/)| 
 
 
