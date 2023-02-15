@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Md Zaid Siddique</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi +👋+ Folks,+This is+Zaid!;A passionate backend developer+from+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
+
+<!-- <h1 align="center">Hi 👋, I'm Md Zaid Siddique</h1>
+<h3 align="center">A passionate backend developer from India</h3> -->
 
 <!-- https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif -->
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" height="450px" width = '100%' text-align="center" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaidsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaidsiddique" /> </p>
 
-- <p><i> I am a highly motivated individual with a strong interest in the field of Software Development with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in learning environment along with utilising my skills and knowledge to the fullest.</i></p>
+## About me :
+- <i><p> I am a highly motivated individual with a strong interest in the field of Software Development with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in learning environment along with utilising my skills and knowledge to the fullest.</p>
 - 🌱 I’m currently exploring **Java backend field**
-- 👨‍💻 All of my projects are available at https://github.com/Mdzaidsiddique
 - 📫 How to reach me **45.mdzaid@gmail.com**
 - ⚡ I Love **Biking and Poetries.**
 - ⚡ Linkedin **https://www.linkedin.com/in/md-zaid-siddique-3970611ab/**
-
-<h3 align="left">Connect with me:</h3>
+</i>
+## Connect with me :
 <p align="left">
 <a href="https://codepen.io/mdzaidsiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdzaidsiddique" height="30" width="40" /></a>
 <a href="https://twitter.com/mdzaidsiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdzaidsiddique" height="30" width="40" /></a>
@@ -24,13 +29,24 @@
 <a href="https://www.leetcode.com/mdzaid45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdzaid45" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaidsiddique&show_icons=true&locale=en&layout=compact" alt="mdzaidsiddique" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaidsiddique&show_icons=true&locale=en" alt="mdzaidsiddique" /></p>
+## 👨‍💻 Projects :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaidsiddique&" alt="mdzaidsiddique" /></p>
+| S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
+|:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
+| 1 |  [Click & Buy](https://digital-bazaar.netlify.app/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[Reliance Digital](https://www.reliancedigital.in/)|
+| 2 |  [Alif Medicaments](https://fluffy-centaur-3bfddb.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Tata 1 Mg](https://www.1mg.com/)| 
 
-<h4 text-align="center"> Thanks for visiting! 😊 </h4>
+
+## 📊 GitHub Stats :
+
+<a><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaidsiddique&theme=gotham&show_icons=true&locale=en&layout=compact" alt="mdzaidsiddique" width= "45%"/></p></a>
+
+<a><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaidsiddique&theme=gotham&" alt="mdzaidsiddique" width= "45%" /></p></a>
+
+<a width= "45%"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaidsiddique&theme=gotham&show_icons=true&locale=en" alt="mdzaidsiddique" width= "45%" /></p></a>
+
+<h4 align="center"> Thanks for visiting! :blush: </h4>
