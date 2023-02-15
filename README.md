@@ -1,16 +1,18 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Md Zaid Siddique</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <img src=“https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif” alt = "coding" />
+<!-- ![image](https://user-images.githubusercontent.com/87862008/218952727-677f9838-bf02-4aba-8cab-e63b3b2ade65.png) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaidsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaidsiddique" /> </p>
 
+- <p><i> I am a highly motivated individual with a strong interest in the field of Software Developement with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in learning environment along with utilizing my skills and knowledge to the fullest.</i></p>
 - 🌱 I’m currently exploring **Java backend field**
-
+- 👨‍💻 All of my projects are available at https://github.com/Mdzaidsiddique
 - 📫 How to reach me **45.mdzaid@gmail.com**
-
-- ⚡ Fun fact **I am funny.**
+- ⚡ I Love **Biking.**
+- ⚡ Linkedin **https://www.linkedin.com/in/md-zaid-siddique-3970611ab/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
