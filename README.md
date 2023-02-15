@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaidsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaidsiddique" /> </p>
 
-- <p><i> I am a highly motivated individual with a strong interest in the field of Software Developement with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in learning environment along with utilizing my skills and knowledge to the fullest.</i></p>
+- <p><i> I am a highly motivated individual with a strong interest in the field of Software Development with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in learning environment along with utilising my skills and knowledge to the fullest.</i></p>
 - 🌱 I’m currently exploring **Java backend field**
 - 👨‍💻 All of my projects are available at https://github.com/Mdzaidsiddique
 - 📫 How to reach me **45.mdzaid@gmail.com**
