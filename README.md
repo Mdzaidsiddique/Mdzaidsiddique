@@ -16,7 +16,6 @@
 - 🌱 I’m currently exploring **Java backend field**
 - 📫 How to reach me **45.mdzaid@gmail.com**
 - ⚡ I Love **Biking and Poetries.**
-- ⚡ Linkedin **https://www.linkedin.com/in/md-zaid-siddique-3970611ab/**
 </i>
 ## Connect with me :
 <p align="left">
