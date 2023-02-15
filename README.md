@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaidsiddique&show_icons=true&locale=en" alt="mdzaidsiddique" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaidsiddique&" alt="mdzaidsiddique" /></p>
+
+<h4 text-align="center"> Thanks for visiting! 😊 </h4>
