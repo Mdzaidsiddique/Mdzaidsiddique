@@ -51,3 +51,5 @@
 <a width= "45%"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaidsiddique&theme=gotham&show_icons=true&locale=en" alt="mdzaidsiddique" width= "45%" /></p></a>
 
 <h4 align="center"> Thanks for visiting! :blush: </h4>
+
+<!-- it you want to be an independent firat be acapable -->
