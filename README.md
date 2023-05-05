@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi +👋+ Folks,+This is+Zaid !!;An Aspiring backend developer+from+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi +👋+ Folks,+This is+Zaid !;An Aspiring backend developer+from+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
@@ -12,11 +12,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaidsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaidsiddique" /> </p>
 
 ## About me :
-- <i><p> I am a highly motivated individual with a strong interest in the field of Software Development with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in learning environment along with utilising my skills and knowledge to the fullest.</p>
+- <p> I am a highly motivated individual with a strong interest in the field of Software Development with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in learning environment along with utilising my skills and knowledge to the fullest.</p>
 - 🌱 I’m currently exploring **Java backend field**
 - 📫 How to reach me **45.mdzaid@gmail.com**
 - ⚡ I Love **Biking and Poetries.**
-</i>
 
 ## Connect with me :
 <p align="left">
