@@ -37,8 +37,9 @@
 
 | S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
-| 1 |  [Click & Buy](https://www.reliancedigital.in/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[Reliance Digital](https://www.reliancedigital.in/)|
-| 2 |  [Alif Medicaments](https://fluffy-centaur-3bfddb.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Tata 1 Mg](https://www.1mg.com/)| 
+| 1 |  [Bus Ticket Reservation System](https://www.reliancedigital.in/)| Java |  `No` | Individual|   5 |[Bus Ticket Reservation System](https://www.reliancedigital.in/)|
+| 2 |  [Click & Buy](https://www.reliancedigital.in/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[Reliance Digital](https://www.reliancedigital.in/)|
+| 3 |  [Alif Medicaments](https://fluffy-centaur-3bfddb.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Tata 1 Mg](https://www.1mg.com/)| 
 
 
 ## 📊 GitHub Stats :
