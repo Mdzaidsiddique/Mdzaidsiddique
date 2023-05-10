@@ -52,4 +52,4 @@
 
 <h4 align="center"> Thanks for visiting! :blush: </h4>
 
-<!-- it you want to be an independent firat be acapable -->
+it you want to be an independent first be a acapable!
