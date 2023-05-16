@@ -8,9 +8,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
+<!-- <a href="#"><img align="right" width="350px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" alt="gif" /></a> -->
+
+
 <!-- <h1 align="center">Hi 👋, I'm Md Zaid Siddique</h1>
 <h3 align="center">A passionate backend developer from India</h3> -->
 
+<!-- "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" -->
 <!-- https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif -->
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" height="450px" width = '100%' text-align="center" >
 
