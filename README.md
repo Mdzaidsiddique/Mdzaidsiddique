@@ -22,7 +22,7 @@
 
 ## About me :
 - <p> I am a highly motivated individual with a strong interest in the field of Software Development with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in learning environment along with utilising my skills and knowledge to the fullest.</p>
-- 🌱 I’m currently exploring **Java backend field**
+- 🌱 I’m currently exploring **Java backend development**
 - 📫 How to reach me **45.mdzaid@gmail.com**
 - ⚡ I Love **Biking and Poetries.**
 
