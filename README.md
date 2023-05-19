@@ -61,4 +61,4 @@
 
 <h4 align="center"> Thanks for visiting! :blush: </h4>
 
-it you want to be an independent first be a acapable!
+it you want to be an independent,  first become an independent!
