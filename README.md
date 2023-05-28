@@ -10,9 +10,9 @@
 
 <!-- <a href="#"><img align="right" width="350px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" alt="gif" /></a> -->
 
-
+<!--
  <h1 align="center">Hi 👋, I'm Md Zaid Siddique</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3> -->
 
 <!-- "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" -->
 <!-- https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif -->
