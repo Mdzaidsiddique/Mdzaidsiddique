@@ -23,10 +23,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaidsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaidsiddique" /> </p>
 
 ## About me :
-- <p> I am a highly motivated individual with a strong interest in the field of Software Development with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in learning environment along with utilising my skills and knowledge to the fullest.</p>
+- <p> I am a highly motivated individual with a strong interest in the field of Software Development with good presentation and interpersonal skills & Strong analytical capabilities, looking to work in a learning environment along with utilizing my skills and knowledge to the fullest.</p>
 - 🌱 I’m currently exploring **Java backend development**
 - 📫 How to reach me **45.mdzaid@gmail.com**
 - ⚡ I Love **Biking and Poetries.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mdzaidsiddique" alt="Mdzaidsiddique" /></a> </p>
+
 
 ## Connect with me :
 <p align="left">
