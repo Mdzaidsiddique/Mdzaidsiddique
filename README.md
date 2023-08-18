@@ -73,4 +73,4 @@
 
 <h4 align="center"> Thanks for visiting! :blush: </h4>
 
-it you want to be independent,  first, become independent!
+it you want to be independent,  first, become Capable!
