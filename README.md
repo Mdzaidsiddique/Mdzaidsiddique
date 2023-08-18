@@ -34,6 +34,7 @@
 - ⚡ I Love **Biking and Poetries.**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://649211f8cca845008de09510--cerulean-heliotrope-9f3440.netlify.app/)**
 
+<!-- TROPHY -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mdzaidsiddique" alt="Mdzaidsiddique" /></a> </p>
 
 
