@@ -1,31 +1,3 @@
-<p align="center">
-<!--
-![Screenshot 2023-06-24 at 18 10 35](https://github.com/Mdzaidsiddique/Mdzaidsiddique/assets/87862008/6b2a2888-a2f9-439b-a18f-657f7eb0a6dd)
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<!-- need not comment oufggt fofffr daily  haaha \ -->
-   
-
-
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello +👋+ Folks,+This is+Zaid !;An Aspiring backend developer+from+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p> 
-
-<!-- adding new comment  -->
-<!-- <a href="#"><img align="right" width="350px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" alt="gif" /></a> -->
-
-<!--
- <h1 align="center">Hi 👋, I'm Md Zaid Siddique</h1>
- fjvbfdhvdjbhvjdfb
-<h3 align="center">A passionate backend developer from India</h3> -->
-
-<!-- "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" -->
-<!-- https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" height="450px" width = '100%' text-align="center" >
--->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaidsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaidsiddique" /> </p>
-
 ## About me :
 <p align="center">
 
